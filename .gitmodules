@@ -1,0 +1,8 @@
+[submodule "message-lint"]
+	path = message-lint
+	url = https://github.com/ehom/message-lint.git
+	branch = main
+[submodule "pseudo-loc"]
+	path = pseudo-loc
+	url = https://github.com/ehom/pseudo-loc.git
+	branch = main
