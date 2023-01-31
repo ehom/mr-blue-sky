@@ -19,3 +19,4 @@ pwd
 
 set +x
 echo "*** setup completed ***"
+ls
