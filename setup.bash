@@ -17,4 +17,5 @@ pwd
 cd ..
 pwd
 
+set +x
 echo "*** setup completed ***"
